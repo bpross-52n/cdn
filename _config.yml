@@ -1,0 +1,8 @@
+title: Cdn
+description: Shared files for Java development
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
